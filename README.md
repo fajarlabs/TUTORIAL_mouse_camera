@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 # HOW TO RUN
 ``````
-python Smile_detection.py
+python camera_mouse.py
 ``````
